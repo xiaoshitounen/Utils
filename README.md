@@ -11,6 +11,8 @@ ScreenUtil：获取屏幕宽高，状态栏高度，导航栏高度。
 
 StateUtil：判断程序是否在后台。
 
+SaveToAlbumUtil：将一个bitmap保存到系统相册中
+
 #### 2.添加依赖
 
 添加依赖
